@@ -1,21 +1,41 @@
-# Data
+# Swachh Bharat Mission Evaluation: Sanitation Access and Use in Telangana and Bihar
 
-The data are **not stored in this repository.** The household file used here
-(`SBM.dta`, about 146 MB) is NSS microdata, which is larger than GitHub's 100 MB
-file limit and should not be re-posted.
+Course project, *Advance Training in Large Datasets*, M.A. Public Policy and Governance, Tata Institute of Social Sciences (TISS) Hyderabad.
+**Author:** Swastika Namdeo
 
-## Source
-- **Survey:** National Sample Survey (NSS) 76th Round, July to December 2018
-- **Schedule:** 1.2, Drinking Water, Sanitation, Hygiene and Housing Condition
-- **Publisher:** Ministry of Statistics and Programme Implementation (MoSPI), Government of India
-- **Where to get it:** MoSPI's microdata portal. Please check the terms of use there.
 
-## How `SBM.dta` was built
-[TODO: one or two lines on how you prepared the file, e.g. which unit-level
-blocks you merged, how the `weight` variable was created (NSS weights are
-usually Multiplier/100 or Multiplier/200), and any variables you renamed.]
+## Research question
+Does access to a latrine translate into sustained use, and how do access, reasons for non-use and water availability differ by social group, gender and sector in a top-performing state (Telangana) and a low-performing state (Bihar)?
 
-## To reproduce the analysis
-1. Download the NSS 76th Round (Sch 1.2) unit-level data and prepare `SBM.dta`.
-2. Save it in this folder as `data/SBM.dta`.
-3. Open `code/01_sbm_analysis.do` and run it. (`.gitignore` stops the file being uploaded to GitHub by accident.)
+## Data
+NSS 76th Round (July to December 2018), Schedule 1.2 on drinking water, sanitation, hygiene and housing condition (about 466,000 households). The data are not included in this repository; see [`data/README.md`](data/README.md) for the source and how to reproduce.
+
+## Method
+- Weighted cross-tabulations of latrine access, reasons for not using a latrine, water in the latrine and receipt of Swachh Bharat Mission benefits, by social group, gender and sector (rural/urban), for Bihar and Telangana.
+- Logit models (odds ratios) for water availability in or around the latrine, by social group, gender and sector, with and without survey weights.
+- A literature review of state-level studies on Telangana and Bihar.
+
+## Key findings
+- Access does not guarantee use: in Bihar, reported receipt of Mission benefits is high (about 84% for SC and OBC households in rural areas) while outcomes remain weaker.
+- Reasons for non-use differ sharply: "personal preference" is common among Scheduled Tribe households in Bihar and negligible in Telangana, where affordability is the main barrier for Scheduled Tribes (38%).
+- Water in the latrine is unequal across groups and sectors: the odds of water being available are higher for SC, OBC and Other households than for ST households, and urban odds are roughly 2.2 times rural odds. *(Exact odds ratios to be confirmed from the corrected model in the do-file.)*
+- Infrastructure, governance and social norms have to work together; building toilets alone is not enough.
+
+## Repository structure
+```
+code/    01_sbm_analysis.do   Stata analysis file (cleaned)
+data/    README.md            where to get the data (data not included)
+logs/    SBM_analysis.smcl    Stata log from running the file
+paper/   Final paper (PDF)
+```
+
+## How to run
+1. Prepare `data/SBM.dta` (see `data/README.md`).
+2. Edit the `global root` line at the top of `code/01_sbm_analysis.do`.
+3. Run the do-file in Stata 17 or later. It installs the `fre` package if missing.
+
+## Software
+Stata
+
+## Contact
+Swastika Namdeo, [LinkedIn](https://www.linkedin.com/in/swastika-namdeo)
