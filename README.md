@@ -1,6 +1,6 @@
 # Swachh Bharat Mission Evaluation: Sanitation Access and Use in Telangana and Bihar
 
-Course project, *Advance Training in Large Datasets*, M.A. Public Policy and Governance, Tata Institute of Social Sciences (TISS) Hyderabad.
+Research Project, M.A. Public Policy and Governance, Tata Institute of Social Sciences (TISS) Hyderabad.
 **Author:** Swastika Namdeo
 
 
@@ -18,15 +18,15 @@ NSS 76th Round (July to December 2018), Schedule 1.2 on drinking water, sanitati
 ## Key findings
 - Access does not guarantee use: in Bihar, reported receipt of Mission benefits is high (about 84% for SC and OBC households in rural areas) while outcomes remain weaker.
 - Reasons for non-use differ sharply: "personal preference" is common among Scheduled Tribe households in Bihar and negligible in Telangana, where affordability is the main barrier for Scheduled Tribes (38%).
-- Water in the latrine is unequal across groups and sectors: the odds of water being available are higher for SC, OBC and Other households than for ST households, and urban odds are roughly 2.2 times rural odds. *(Exact odds ratios to be confirmed from the corrected model in the do-file.)*
+- Water in the latrine is unequal across groups and sectors: the odds of water being available are higher for SC, OBC and Other households than for ST households, and urban odds are 2.2 times rural odds.
 - Infrastructure, governance and social norms have to work together; building toilets alone is not enough.
 
 ## Repository structure
 ```
 code/    01_sbm_analysis.do   Stata analysis file (cleaned)
-data/    README.md            where to get the data (data not included)
+data/    DATA_README.md            where to get the data (data not included)
 logs/    SBM_analysis.smcl    Stata log from running the file
-paper/   Final paper (PDF)
+paper/   SwastikaNamdeo_SBM_Evaluation_Paper (PDF)
 ```
 
 ## How to run
