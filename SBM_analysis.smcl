@@ -1,0 +1,2129 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+      name:  {res}<unnamed>
+       {txt}log:  {res}F:\Advanced Data set\Mid Term Log.smcl
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}27 Feb 2026, 10:15:58
+
+{com}. tab Access_latrine
+
+ {txt}Access of the household to {c |}
+                    latrine {c |}      Freq.     Percent        Cum.
+{hline 28}{c +}{hline 35}
+              Exclusive_use {c |}{res}    346,983       74.38       74.38
+{txt}        Common_use_building {c |}{res}     32,557        6.98       81.35
+{txt}Public_community_no_payment {c |}{res}      3,056        0.66       82.01
+{txt}   Public_community_payment {c |}{res}      1,825        0.39       82.40
+{txt}                 No_latrine {c |}{res}     79,833       17.11       99.51
+{txt}                     Others {c |}{res}      2,273        0.49      100.00
+{txt}{hline 28}{c +}{hline 35}
+                      Total {c |}{res}    466,527      100.00
+
+{com}. tab latrine_used_household
+
+    {txt}whether {c |}
+    latrine {c |}
+used is for {c |}
+  exclusive {c |}
+ use of the {c |}
+  household {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+        Yes {c |}{res}    331,033       90.01       90.01
+{txt}         No {c |}{res}     36,731        9.99      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    367,764      100.00
+
+{com}. tab latrine_type
+
+  {txt}type of latrine used by the household {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+used_flush_pourFlush_to_piped_sewer_sys {c |}{res}     54,431       14.08       14.08
+{txt}    used_flush_pourFlush_to_septic_tank {c |}{res}    202,096       52.26       66.34
+{txt} used_flush_pourFlush_to_twin_leach_pit {c |}{res}     23,254        6.01       72.35
+{txt}     used_flush_pourFlush_to_single_pit {c |}{res}     58,026       15.01       87.36
+{txt}used_flush_pourFlush_to_elsewhere_opend {c |}{res}      1,833        0.47       87.83
+{txt}        ventilated_improved_pit_latrine {c |}{res}      3,689        0.95       88.79
+{txt}                  pit_latrine_with_slab {c |}{res}     34,932        9.03       97.82
+{txt}      pit_latrine_without_slab_open_pit {c |}{res}      3,583        0.93       98.75
+{txt}                     composting_latrine {c |}{res}        498        0.13       98.87
+{txt}                               not_used {c |}{res}      3,497        0.90       99.78
+{txt}                                 others {c |}{res}        855        0.22      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}    386,694      100.00
+
+{com}. tab latrine_type
+
+  {txt}type of latrine used by the household {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+used_flush_pourFlush_to_piped_sewer_sys {c |}{res}     54,431       14.08       14.08
+{txt}    used_flush_pourFlush_to_septic_tank {c |}{res}    202,096       52.26       66.34
+{txt} used_flush_pourFlush_to_twin_leach_pit {c |}{res}     23,254        6.01       72.35
+{txt}     used_flush_pourFlush_to_single_pit {c |}{res}     58,026       15.01       87.36
+{txt}used_flush_pourFlush_to_elsewhere_opend {c |}{res}      1,833        0.47       87.83
+{txt}        ventilated_improved_pit_latrine {c |}{res}      3,689        0.95       88.79
+{txt}                  pit_latrine_with_slab {c |}{res}     34,932        9.03       97.82
+{txt}      pit_latrine_without_slab_open_pit {c |}{res}      3,583        0.93       98.75
+{txt}                     composting_latrine {c |}{res}        498        0.13       98.87
+{txt}                               not_used {c |}{res}      3,497        0.90       99.78
+{txt}                                 others {c |}{res}        855        0.22      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}    386,694      100.00
+
+{com}. tab Acces_bathroom
+
+ {txt}Access of the household to {c |}
+                   bathroom {c |}      Freq.     Percent        Cum.
+{hline 28}{c +}{hline 35}
+              Exclusive_use {c |}{res}    298,252       63.93       63.93
+{txt}        Common_use_building {c |}{res}     31,190        6.69       70.62
+{txt}Public_community_no_payment {c |}{res}        537        0.12       70.73
+{txt}   Public_community_payment {c |}{res}         25        0.01       70.74
+{txt}                No_bathroom {c |}{res}    135,257       28.99       99.73
+{txt}                     Others {c |}{res}      1,266        0.27      100.00
+{txt}{hline 28}{c +}{hline 35}
+                      Total {c |}{res}    466,527      100.00
+
+{com}. tab bathroom_latrine_inpremises
+
+    {txt}Whether {c |}
+   bathroom {c |}
+and latrine {c |}
+   both are {c |}
+ within the {c |}
+  household {c |}
+   premises {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+        Yes {c |}{res}    297,126       63.69       63.69
+{txt}         No {c |}{res}    169,401       36.31      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    466,527      100.00
+
+{com}. tab Disposal_excreta
+
+ {txt}Disposal of {c |}
+animal/poult {c |}
+  ry excreta {c |}      Freq.     Percent        Cum.
+{hline 13}{c +}{hline 35}
+Biogas_plant {c |}{res}      2,148        1.22        1.22
+{txt}  Manure_pit {c |}{res}     82,594       46.98       48.20
+{txt}Used_as_fuel {c |}{res}     35,725       20.32       68.52
+{txt}   Not_known {c |}{res}      9,047        5.15       73.67
+{txt}      Others {c |}{res}     46,293       26.33      100.00
+{txt}{hline 13}{c +}{hline 35}
+       Total {c |}{res}    175,807      100.00
+
+{com}. tab Distance_bathing_place
+
+ {txt}Distance from the bathing place {c |}      Freq.     Percent        Cum.
+{hline 33}{c +}{hline 35}
+                 Within_dwelling {c |}{res}    243,765       52.25       52.25
+{txt}Outside_dwelling_within_premises {c |}{res}    183,973       39.43       91.69
+{txt}                Less_than_0_2_km {c |}{res}     25,196        5.40       97.09
+{txt}                   0_2_to_0_5_km {c |}{res}      9,233        1.98       99.07
+{txt}                   0_5_to_1_0_km {c |}{res}      3,595        0.77       99.84
+{txt}                   1_0_to_1_5_km {c |}{res}        605        0.13       99.97
+{txt}                  1_5_km_or_more {c |}{res}        160        0.03      100.00
+{txt}{hline 33}{c +}{hline 35}
+                           Total {c |}{res}    466,527      100.00
+
+{com}. tab disposal_place
+
+   {txt}place of disposal of {c |}
+     excreta  last time {c |}      Freq.     Percent        Cum.
+{hline 24}{c +}{hline 35}
+        Treatment_plant {c |}{res}      1,165        4.20        4.20
+{txt}  Buried_in_covered_pit {c |}{res}      2,320        8.36       12.55
+{txt}Uncovered_pit_open_land {c |}{res}      4,498       16.20       28.76
+{txt}              Not_known {c |}{res}     12,952       46.65       75.41
+{txt}                 Others {c |}{res}      6,827       24.59      100.00
+{txt}{hline 24}{c +}{hline 35}
+                  Total {c |}{res}     27,762      100.00
+
+{com}. tab disposal_place
+
+   {txt}place of disposal of {c |}
+     excreta  last time {c |}      Freq.     Percent        Cum.
+{hline 24}{c +}{hline 35}
+        Treatment_plant {c |}{res}      1,165        4.20        4.20
+{txt}  Buried_in_covered_pit {c |}{res}      2,320        8.36       12.55
+{txt}Uncovered_pit_open_land {c |}{res}      4,498       16.20       28.76
+{txt}              Not_known {c |}{res}     12,952       46.65       75.41
+{txt}                 Others {c |}{res}      6,827       24.59      100.00
+{txt}{hline 24}{c +}{hline 35}
+                  Total {c |}{res}     27,762      100.00
+
+{com}. tab frequently_excreta_emptied
+
+      {txt}how frequently {c |}
+  excreta is emptied {c |}      Freq.     Percent        Cum.
+{hline 21}{c +}{hline 35}
+Once_or_more_in_year {c |}{res}      4,024       14.49       14.49
+{txt}     Once_in_2_years {c |}{res}      5,226       18.82       33.32
+{txt}     Once_in_5_years {c |}{res}      8,254       29.73       63.05
+{txt}    Once_in_10_years {c |}{res}      5,935       21.38       84.43
+{txt}           Not_known {c |}{res}      2,516        9.06       93.49
+{txt}              Others {c |}{res}      1,807        6.51      100.00
+{txt}{hline 21}{c +}{hline 35}
+               Total {c |}{res}     27,762      100.00
+
+{com}. tab Disposal_faeces_children_upto3yr
+
+ {txt}Disposal of faeces for {c |}
+children of age below 3 {c |}
+                  years {c |}      Freq.     Percent        Cum.
+{hline 24}{c +}{hline 35}
+  Children_used_latrine {c |}{res}      6,528        1.40        1.40
+{txt}Put_rinsed_into_latrine {c |}{res}     27,143        5.82        7.22
+{txt}  Put_rinsed_into_drain {c |}{res}      8,266        1.77        8.99
+{txt}    Thrown_into_garbage {c |}{res}     23,203        4.97       13.96
+{txt}    Thrown_left_in_open {c |}{res}     19,199        4.12       18.08
+{txt}                 Buried {c |}{res}      1,059        0.23       18.31
+{txt}         Not_applicable {c |}{res}    379,530       81.35       99.66
+{txt}                 Others {c |}{res}      1,599        0.34      100.00
+{txt}{hline 24}{c +}{hline 35}
+                  Total {c |}{res}    466,527      100.00
+
+{com}. tab availability_water_inlatrine
+
+ {txt}availability of water in or {c |}
+     around the latrine used {c |}      Freq.     Percent        Cum.
+{hline 29}{c +}{hline 35}
+   Water_available_with_soap {c |}{res}    290,781       75.88       75.88
+{txt}Water_available_with_ash_mud {c |}{res}     19,495        5.09       80.97
+{txt}        Only_water_available {c |}{res}     59,722       15.59       96.56
+{txt}               Not_available {c |}{res}     13,195        3.44      100.00
+{txt}{hline 29}{c +}{hline 35}
+                       Total {c |}{res}    383,193      100.00
+
+{com}. tab wash_hand_before_meal
+
+     {txt}Whether household {c |}
+members regularly wash {c |}
+    their hands before {c |}
+                  meal {c |}      Freq.     Percent        Cum.
+{hline 23}{c +}{hline 35}
+   With_water_and_soap {c |}{res}    174,448       37.39       37.39
+{txt}With_water_and_ash_mud {c |}{res}     12,002        2.57       39.97
+{txt}       With_water_only {c |}{res}    275,468       59.05       99.01
+{txt}                    No {c |}{res}      4,609        0.99      100.00
+{txt}{hline 23}{c +}{hline 35}
+                 Total {c |}{res}    466,527      100.00
+
+{com}. tab wash_hand_after_defecation
+
+     {txt}Whether household {c |}
+members regularly wash {c |}
+     their hands after {c |}
+            defecation {c |}      Freq.     Percent        Cum.
+{hline 23}{c +}{hline 35}
+   With_water_and_soap {c |}{res}    353,803       75.84       75.84
+{txt}With_water_and_ash_mud {c |}{res}     51,556       11.05       86.89
+{txt}       With_water_only {c |}{res}     60,806       13.03       99.92
+{txt}                    No {c |}{res}        362        0.08      100.00
+{txt}{hline 23}{c +}{hline 35}
+                 Total {c |}{res}    466,527      100.00
+
+{com}. tab latrine_type
+
+  {txt}type of latrine used by the household {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+used_flush_pourFlush_to_piped_sewer_sys {c |}{res}     54,431       14.08       14.08
+{txt}    used_flush_pourFlush_to_septic_tank {c |}{res}    202,096       52.26       66.34
+{txt} used_flush_pourFlush_to_twin_leach_pit {c |}{res}     23,254        6.01       72.35
+{txt}     used_flush_pourFlush_to_single_pit {c |}{res}     58,026       15.01       87.36
+{txt}used_flush_pourFlush_to_elsewhere_opend {c |}{res}      1,833        0.47       87.83
+{txt}        ventilated_improved_pit_latrine {c |}{res}      3,689        0.95       88.79
+{txt}                  pit_latrine_with_slab {c |}{res}     34,932        9.03       97.82
+{txt}      pit_latrine_without_slab_open_pit {c |}{res}      3,583        0.93       98.75
+{txt}                     composting_latrine {c |}{res}        498        0.13       98.87
+{txt}                               not_used {c |}{res}      3,497        0.90       99.78
+{txt}                                 others {c |}{res}        855        0.22      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}    386,694      100.00
+
+{com}. tab latrine_code
+
+      {txt}use of {c |}
+     latrine {c |}
+      (code) {c |}      Freq.     Percent        Cum.
+{hline 13}{c +}{hline 35}
+   Regularly {c |}{res}    373,865       96.68       96.68
+{txt}Occasionally {c |}{res}      2,873        0.74       97.43
+{txt}       Never {c |}{res}      9,956        2.57      100.00
+{txt}{hline 13}{c +}{hline 35}
+       Total {c |}{res}    386,694      100.00
+
+{com}. tab reason_not_using_latrine
+
+           {txt}reason for not using latrine {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                      No_superstructure {c |}{res}        246        2.47        2.47
+{txt}Not_clean_sufficient_water_not_availabl {c |}{res}        645        6.48        8.95
+{txt}                         Malfunctioning {c |}{res}        270        2.71       11.66
+{txt}                    Shortage_of_latrine {c |}{res}         54        0.54       12.20
+{txt}                Used_for_other_purposes {c |}{res}        105        1.05       13.26
+{txt}                 Lack_of_privacy_safety {c |}{res}         45        0.45       13.71
+{txt}                    Personal_preference {c |}{res}        557        5.59       19.30
+{txt}                  Cannot_afford_charges {c |}{res}         67        0.67       19.98
+{txt}                                 Others {c |}{res}      7,967       80.02      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}      9,956      100.00
+
+{com}. tab Social_group Access_latrine [iw=weight], row nofreq
+
+    {txt}Social {c |}           Access of the household to latrine
+     group {c |} Exclusive  Common_us  Public_co  Public_co  No_latrin {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+        ST {c |}{res}     57.78       8.05       0.49       0.25      32.77 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     57.30      10.48       0.98       0.45      30.28 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     68.24       9.61       0.39       0.31      21.04 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     78.93      11.46       0.93       0.67       7.50 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}     68.11      10.14       0.66       0.43      20.18 {txt}{c |}{res}    100.00 
+
+
+           {txt}{c |} Access of
+           {c |}    the
+           {c |} household
+    Social {c |} to latrine
+     group {c |}    Others {c |}     Total
+{hline 11}{c +}{hline 11}{c +}{hline 10}
+        ST {c |}{res}      0.66 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.52 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.41 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.51 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 11}{c +}{hline 10}
+     Total {c |}{res}      0.48 {txt}{c |}{res}    100.00 
+
+{com}. bysort Sector: tab Social_group Access_latrine [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}                Access of the household to latrine
+     group {c |} Exclusive  Common_us  Public_co  Public_co  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 66}{c +}{hline 10}
+        ST {c |}{res}     55.88       6.43       0.31       0.04      36.74       0.61 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     54.37       7.47       0.42       0.02      37.17       0.55 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     63.48       6.15       0.18       0.02      29.70       0.47 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     75.60      10.05       0.15       0.01      13.53       0.66 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 66}{c +}{hline 10}
+     Total {c |}{res}     63.17       7.31       0.24       0.02      28.71       0.55 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}                Access of the household to latrine
+     group {c |} Exclusive  Common_us  Public_co  Public_co  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 66}{c +}{hline 10}
+        ST {c |}{res}     68.15      16.85       1.49       1.40      11.20       0.92 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     66.36      19.81       2.70       1.77       8.93       0.42 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     77.72      16.51       0.83       0.88       3.78       0.29 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     82.44      12.95       1.75       1.37       1.14       0.35 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 66}{c +}{hline 10}
+     Total {c |}{res}     77.62      15.57       1.47       1.22       3.76       0.36 {txt}{c |}{res}    100.00 
+
+
+{com}. tab State
+
+      {txt}State Code {c |}      Freq.     Percent        Cum.
+{hline 17}{c +}{hline 35}
+    JammuKashmir {c |}{res}      8,347        1.79        1.79
+{txt}              HP {c |}{res}      3,685        0.79        2.58
+{txt}          Punjab {c |}{res}     10,343        2.22        4.79
+{txt}      Chandigrah {c |}{res}        776        0.17        4.96
+{txt}       Uttarkand {c |}{res}      4,322        0.93        5.89
+{txt}         Haryana {c |}{res}     10,002        2.14        8.03
+{txt}           Delhi {c |}{res}      6,572        1.41        9.44
+{txt}       Rajasthan {c |}{res}     25,923        5.55       14.99
+{txt}              UP {c |}{res}     63,206       13.54       28.54
+{txt}           Bihar {c |}{res}     35,022        7.50       36.04
+{txt}          Sikkim {c |}{res}      3,155        0.68       36.72
+{txt} ArunchalPradesh {c |}{res}      5,128        1.10       37.82
+{txt}        Nagaland {c |}{res}      3,772        0.81       38.62
+{txt}         Manipur {c |}{res}     10,809        2.32       40.94
+{txt}         Mizoram {c |}{res}      5,716        1.22       42.17
+{txt}         Tripura {c |}{res}      8,753        1.88       44.04
+{txt}       Meghalaya {c |}{res}      6,885        1.48       45.52
+{txt}           Assam {c |}{res}     16,434        3.52       49.04
+{txt}              WB {c |}{res}     29,777        6.38       55.42
+{txt}       Jharkahnd {c |}{res}     11,695        2.51       57.92
+{txt}          Odisha {c |}{res}     14,434        3.09       61.02
+{txt}     Chhatisgrah {c |}{res}      9,646        2.07       63.08
+{txt}              MP {c |}{res}     27,488        5.89       68.97
+{txt}         Gujarat {c |}{res}     21,806        4.67       73.65
+{txt}        DamanDiu {c |}{res}        689        0.15       73.79
+{txt}DadarNagarHaveli {c |}{res}        662        0.14       73.94
+{txt}     Maharashtra {c |}{res}     39,475        8.46       82.40
+{txt}   AndhraPradesh {c |}{res}     13,465        2.89       85.28
+{txt}       Karnataka {c |}{res}     20,054        4.30       89.58
+{txt}             Goa {c |}{res}        965        0.21       89.78
+{txt}      Lakshadeep {c |}{res}        790        0.17       89.95
+{txt}          Kerala {c |}{res}     12,985        2.78       92.74
+{txt}       TamilNadu {c |}{res}     21,610        4.63       97.37
+{txt}      PuduCherry {c |}{res}      1,322        0.28       97.65
+{txt} AndanmanNicobar {c |}{res}        838        0.18       97.83
+{txt}       Telangana {c |}{res}     10,130        2.17      100.00
+{txt}{hline 17}{c +}{hline 35}
+           Total {c |}{res}    466,681      100.00
+
+{com}. fre State
+{res}
+{txt}State {hline 2} State Code
+{txt}{hline 27}{hline 1}{c TT}{hline 44}
+{txt}        {txt}                    {c |}      Freq.    Percent      Valid       Cum.
+{txt}{hline 27}{hline 1}{c +}{hline 44}
+{txt}Valid   1  JammuKashmir     {c |}{res}       8347       1.79       1.79       1.79
+{txt}        2  HP               {c |}{res}       3685       0.79       0.79       2.58
+{txt}        3  Punjab           {c |}{res}      10343       2.22       2.22       4.79
+{txt}        4  Chandigrah       {c |}{res}        776       0.17       0.17       4.96
+{txt}        5  Uttarkand        {c |}{res}       4322       0.93       0.93       5.89
+{txt}        6  Haryana          {c |}{res}      10002       2.14       2.14       8.03
+{txt}        7  Delhi            {c |}{res}       6572       1.41       1.41       9.44
+{txt}        8  Rajasthan        {c |}{res}      25923       5.55       5.55      14.99
+{txt}        9  UP               {c |}{res}      63206      13.54      13.54      28.54
+{txt}        10 Bihar            {c |}{res}      35022       7.50       7.50      36.04
+{txt}        11 Sikkim           {c |}{res}       3155       0.68       0.68      36.72
+{txt}        12 ArunchalPradesh  {c |}{res}       5128       1.10       1.10      37.82
+{txt}        13 Nagaland         {c |}{res}       3772       0.81       0.81      38.62
+{txt}        14 Manipur          {c |}{res}      10809       2.32       2.32      40.94
+{txt}        15 Mizoram          {c |}{res}       5716       1.22       1.22      42.17
+{txt}        16 Tripura          {c |}{res}       8753       1.88       1.88      44.04
+{txt}        17 Meghalaya        {c |}{res}       6885       1.48       1.48      45.52
+{txt}        18 Assam            {c |}{res}      16434       3.52       3.52      49.04
+{txt}        19 WB               {c |}{res}      29777       6.38       6.38      55.42
+{txt}        20 Jharkahnd        {c |}{res}      11695       2.51       2.51      57.92
+{txt}        21 Odisha           {c |}{res}      14434       3.09       3.09      61.02
+{txt}        22 Chhatisgrah      {c |}{res}       9646       2.07       2.07      63.08
+{txt}        23 MP               {c |}{res}      27488       5.89       5.89      68.97
+{txt}        24 Gujarat          {c |}{res}      21806       4.67       4.67      73.65
+{txt}        25 DamanDiu         {c |}{res}        689       0.15       0.15      73.79
+{txt}        26 DadarNagarHaveli {c |}{res}        662       0.14       0.14      73.94
+{txt}        27 Maharashtra      {c |}{res}      39475       8.46       8.46      82.40
+{txt}        28 AndhraPradesh    {c |}{res}      13465       2.89       2.89      85.28
+{txt}        29 Karnataka        {c |}{res}      20054       4.30       4.30      89.58
+{txt}        30 Goa              {c |}{res}        965       0.21       0.21      89.78
+{txt}        31 Lakshadeep       {c |}{res}        790       0.17       0.17      89.95
+{txt}        32 Kerala           {c |}{res}      12985       2.78       2.78      92.74
+{txt}        33 TamilNadu        {c |}{res}      21610       4.63       4.63      97.37
+{txt}        34 PuduCherry       {c |}{res}       1322       0.28       0.28      97.65
+{txt}        35 AndanmanNicobar  {c |}{res}        838       0.18       0.18      97.83
+{txt}        36 Telangana        {c |}{res}      10130       2.17       2.17     100.00
+{txt}        Total               {c |}{res}     466681     100.00     100.00           
+{txt}{hline 27}{hline 1}{c BT}{hline 44}
+
+{com}. tab Access_latrine if State==36
+
+ {txt}Access of the household to {c |}
+                    latrine {c |}      Freq.     Percent        Cum.
+{hline 28}{c +}{hline 35}
+              Exclusive_use {c |}{res}      7,856       77.57       77.57
+{txt}        Common_use_building {c |}{res}        871        8.60       86.17
+{txt}                 No_latrine {c |}{res}      1,389       13.71       99.88
+{txt}                     Others {c |}{res}         12        0.12      100.00
+{txt}{hline 28}{c +}{hline 35}
+                      Total {c |}{res}     10,128      100.00
+
+{com}. tab Access_latrine if State==10
+
+ {txt}Access of the household to {c |}
+                    latrine {c |}      Freq.     Percent        Cum.
+{hline 28}{c +}{hline 35}
+              Exclusive_use {c |}{res}     21,854       62.40       62.40
+{txt}        Common_use_building {c |}{res}      2,949        8.42       70.82
+{txt}   Public_community_payment {c |}{res}         49        0.14       70.96
+{txt}                 No_latrine {c |}{res}     10,041       28.67       99.63
+{txt}                     Others {c |}{res}        128        0.37      100.00
+{txt}{hline 28}{c +}{hline 35}
+                      Total {c |}{res}     35,021      100.00
+
+{com}. tab Access_latrine if State==10, State==36
+{err}option {bf:State} not allowed
+{txt}{search r(198), local:r(198);}
+
+{com}. tab Access_latrine if State==10 | State==36
+
+ {txt}Access of the household to {c |}
+                    latrine {c |}      Freq.     Percent        Cum.
+{hline 28}{c +}{hline 35}
+              Exclusive_use {c |}{res}     29,710       65.80       65.80
+{txt}        Common_use_building {c |}{res}      3,820        8.46       74.27
+{txt}   Public_community_payment {c |}{res}         49        0.11       74.37
+{txt}                 No_latrine {c |}{res}     11,430       25.32       99.69
+{txt}                     Others {c |}{res}        140        0.31      100.00
+{txt}{hline 28}{c +}{hline 35}
+                      Total {c |}{res}     45,149      100.00
+
+{com}. tab Social_group Access_latrine if State==10
+
+    {txt}Social {c |}           Access of the household to latrine
+     group {c |} Exclusive  Common_us  Public_co  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+        ST {c |}{res}       171         34          0        287          0 {txt}{c |}{res}       492 
+{txt}        SC {c |}{res}     3,329        537         43      3,804          3 {txt}{c |}{res}     7,716 
+{txt}       OBC {c |}{res}    13,694      2,004          6      5,368        121 {txt}{c |}{res}    21,193 
+{txt}    Others {c |}{res}     4,660        374          0        582          4 {txt}{c |}{res}     5,620 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}    21,854      2,949         49     10,041        128 {txt}{c |}{res}    35,021 
+
+{com}. tab Social_group Access_latrine if State==36
+
+    {txt}Social {c |}     Access of the household to latrine
+     group {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}       502         92        377          4 {txt}{c |}{res}       975 
+{txt}        SC {c |}{res}     1,102        187        347          0 {txt}{c |}{res}     1,636 
+{txt}       OBC {c |}{res}     4,701        460        647          8 {txt}{c |}{res}     5,816 
+{txt}    Others {c |}{res}     1,551        132         18          0 {txt}{c |}{res}     1,701 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     7,856        871      1,389         12 {txt}{c |}{res}    10,128 
+
+{com}. tab Social_group Access_latrine if State==10 [iw=weight], row nofreq
+
+    {txt}Social {c |}           Access of the household to latrine
+     group {c |} Exclusive  Common_us  Public_co  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+        ST {c |}{res}     28.89       7.55       0.00      63.56       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     40.10       6.14       0.28      53.37       0.11 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     59.90      10.03       0.02      29.50       0.54 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     78.99       8.27       0.00      12.65       0.08 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}     57.98       8.82       0.08      32.76       0.36 {txt}{c |}{res}    100.00 
+
+{com}. tab Social_group Access_latrine if State==36 [iw=weight], row nofreq
+
+    {txt}Social {c |}     Access of the household to latrine
+     group {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     53.25      12.65      34.04       0.06 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     67.64      13.73      18.63       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     73.48      14.73      11.58       0.21 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     86.02      12.42       1.56       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     73.18      13.97      12.73       0.12 {txt}{c |}{res}    100.00 
+
+{com}. tab Social_group Access_latrine if State==36 & NSS_Region==361 [iw=weight], row nofreq
+{err}type mismatch
+{txt}{search r(109), local:r(109);}
+
+{com}. tab Social_group Access_latrine if State==36 & NSS_Region==361 [iwe=weight], row nofreq
+{err}type mismatch
+{txt}{search r(109), local:r(109);}
+
+{com}. tab Social_group Access_latrine if State==36 & NSS_Region==361 [iw=weight], row nofreq
+{err}type mismatch
+{txt}{search r(109), local:r(109);}
+
+{com}. tab Social_group Access_latrine if State==36 & NSS_Region==361 [iw=weight], col nofreq
+{err}type mismatch
+{txt}{search r(109), local:r(109);}
+
+{com}. tab Social_group Access_latrine if State==36 & NSS_Region==362 [iw=weight], row nofreq
+{err}type mismatch
+{txt}{search r(109), local:r(109);}
+
+{com}. tab NSS_Region
+
+ {txt}NSS-Region {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+        011 {c |}{res}      1,146        0.25        0.25
+{txt}        012 {c |}{res}      2,316        0.50        0.74
+{txt}        013 {c |}{res}      4,155        0.89        1.63
+{txt}        014 {c |}{res}        730        0.16        1.79
+{txt}        021 {c |}{res}      1,758        0.38        2.17
+{txt}        022 {c |}{res}      1,927        0.41        2.58
+{txt}        031 {c |}{res}      4,540        0.97        3.55
+{txt}        032 {c |}{res}      5,803        1.24        4.79
+{txt}        041 {c |}{res}        776        0.17        4.96
+{txt}        051 {c |}{res}      4,322        0.93        5.89
+{txt}        061 {c |}{res}      6,811        1.46        7.35
+{txt}        062 {c |}{res}      3,191        0.68        8.03
+{txt}        071 {c |}{res}      6,572        1.41        9.44
+{txt}        081 {c |}{res}      5,402        1.16       10.60
+{txt}        082 {c |}{res}      9,242        1.98       12.58
+{txt}        083 {c |}{res}      2,870        0.61       13.19
+{txt}        084 {c |}{res}      3,003        0.64       13.83
+{txt}        085 {c |}{res}      5,406        1.16       14.99
+{txt}        091 {c |}{res}      6,194        1.33       16.32
+{txt}        092 {c |}{res}     14,197        3.04       19.36
+{txt}        093 {c |}{res}     24,463        5.24       24.60
+{txt}        094 {c |}{res}      3,281        0.70       25.31
+{txt}        095 {c |}{res}     15,071        3.23       28.54
+{txt}        101 {c |}{res}     21,385        4.58       33.12
+{txt}        102 {c |}{res}     13,637        2.92       36.04
+{txt}        111 {c |}{res}      3,155        0.68       36.72
+{txt}        121 {c |}{res}      5,128        1.10       37.82
+{txt}        131 {c |}{res}      3,772        0.81       38.62
+{txt}        141 {c |}{res}      6,670        1.43       40.05
+{txt}        142 {c |}{res}      4,139        0.89       40.94
+{txt}        151 {c |}{res}      5,716        1.22       42.17
+{txt}        161 {c |}{res}      8,753        1.88       44.04
+{txt}        171 {c |}{res}      6,885        1.48       45.52
+{txt}        181 {c |}{res}      3,837        0.82       46.34
+{txt}        182 {c |}{res}      5,755        1.23       47.57
+{txt}        183 {c |}{res}      2,838        0.61       48.18
+{txt}        184 {c |}{res}      4,004        0.86       49.04
+{txt}        191 {c |}{res}      2,840        0.61       49.65
+{txt}        192 {c |}{res}      7,555        1.62       51.27
+{txt}        193 {c |}{res}      7,672        1.64       52.91
+{txt}        194 {c |}{res}      6,304        1.35       54.26
+{txt}        195 {c |}{res}      5,406        1.16       55.42
+{txt}        201 {c |}{res}      5,018        1.08       56.49
+{txt}        202 {c |}{res}      6,677        1.43       57.92
+{txt}        211 {c |}{res}      5,244        1.12       59.05
+{txt}        212 {c |}{res}      5,155        1.10       60.15
+{txt}        213 {c |}{res}      4,035        0.86       61.02
+{txt}        221 {c |}{res}      1,352        0.29       61.31
+{txt}        222 {c |}{res}      6,110        1.31       62.62
+{txt}        223 {c |}{res}      2,184        0.47       63.08
+{txt}        231 {c |}{res}      5,097        1.09       64.18
+{txt}        232 {c |}{res}      3,581        0.77       64.94
+{txt}        233 {c |}{res}      6,661        1.43       66.37
+{txt}        234 {c |}{res}      4,060        0.87       67.24
+{txt}        235 {c |}{res}      3,469        0.74       67.98
+{txt}        236 {c |}{res}      4,620        0.99       68.97
+{txt}        241 {c |}{res}      8,013        1.72       70.69
+{txt}        242 {c |}{res}      5,880        1.26       71.95
+{txt}        243 {c |}{res}      1,431        0.31       72.26
+{txt}        244 {c |}{res}        738        0.16       72.42
+{txt}        245 {c |}{res}      5,744        1.23       73.65
+{txt}        251 {c |}{res}        689        0.15       73.79
+{txt}        261 {c |}{res}        662        0.14       73.94
+{txt}        271 {c |}{res}      9,577        2.05       75.99
+{txt}        272 {c |}{res}      9,885        2.12       78.11
+{txt}        273 {c |}{res}      5,189        1.11       79.22
+{txt}        274 {c |}{res}      6,709        1.44       80.66
+{txt}        275 {c |}{res}      6,176        1.32       81.98
+{txt}        276 {c |}{res}      1,939        0.42       82.40
+{txt}        281 {c |}{res}      4,829        1.03       83.43
+{txt}        282 {c |}{res}      4,285        0.92       84.35
+{txt}        283 {c |}{res}      4,351        0.93       85.28
+{txt}        291 {c |}{res}      1,399        0.30       85.58
+{txt}        292 {c |}{res}      1,650        0.35       85.93
+{txt}        293 {c |}{res}      6,464        1.39       87.32
+{txt}        294 {c |}{res}     10,541        2.26       89.58
+{txt}        301 {c |}{res}        965        0.21       89.78
+{txt}        311 {c |}{res}        790        0.17       89.95
+{txt}        321 {c |}{res}      6,239        1.34       91.29
+{txt}        322 {c |}{res}      6,746        1.45       92.74
+{txt}        331 {c |}{res}      7,349        1.57       94.31
+{txt}        332 {c |}{res}      3,730        0.80       95.11
+{txt}        333 {c |}{res}      5,298        1.14       96.25
+{txt}        334 {c |}{res}      5,233        1.12       97.37
+{txt}        341 {c |}{res}      1,322        0.28       97.65
+{txt}        351 {c |}{res}        838        0.18       97.83
+{txt}        361 {c |}{res}      6,625        1.42       99.25
+{txt}        362 {c |}{res}      3,505        0.75      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    466,681      100.00
+
+{com}. fre NSS_Region
+{res}
+{txt}NSS_Region {hline 2} NSS-Region
+{txt}{hline 13}{hline 1}{c TT}{hline 44}
+{txt}        {txt}      {c |}      Freq.    Percent      Valid       Cum.
+{txt}{hline 13}{hline 1}{c +}{hline 44}
+{txt}Valid   011   {c |}{res}       1146       0.25       0.25       0.25
+{txt}        012   {c |}{res}       2316       0.50       0.50       0.74
+{txt}        013   {c |}{res}       4155       0.89       0.89       1.63
+{txt}        014   {c |}{res}        730       0.16       0.16       1.79
+{txt}        021   {c |}{res}       1758       0.38       0.38       2.17
+{txt}        022   {c |}{res}       1927       0.41       0.41       2.58
+{txt}        031   {c |}{res}       4540       0.97       0.97       3.55
+{txt}        032   {c |}{res}       5803       1.24       1.24       4.79
+{txt}        041   {c |}{res}        776       0.17       0.17       4.96
+{txt}        051   {c |}{res}       4322       0.93       0.93       5.89
+{txt}        061   {c |}{res}       6811       1.46       1.46       7.35
+{txt}        062   {c |}{res}       3191       0.68       0.68       8.03
+{txt}        071   {c |}{res}       6572       1.41       1.41       9.44
+{txt}        081   {c |}{res}       5402       1.16       1.16      10.60
+{txt}        082   {c |}{res}       9242       1.98       1.98      12.58
+{txt}        083   {c |}{res}       2870       0.61       0.61      13.19
+{txt}        084   {c |}{res}       3003       0.64       0.64      13.83
+{txt}        085   {c |}{res}       5406       1.16       1.16      14.99
+{txt}        091   {c |}{res}       6194       1.33       1.33      16.32
+{txt}        092   {c |}{res}      14197       3.04       3.04      19.36
+{txt}        :     {c |}          :          :          :          :
+{txt}        276   {c |}{res}       1939       0.42       0.42      82.40
+{txt}        281   {c |}{res}       4829       1.03       1.03      83.43
+{txt}        282   {c |}{res}       4285       0.92       0.92      84.35
+{txt}        283   {c |}{res}       4351       0.93       0.93      85.28
+{txt}        291   {c |}{res}       1399       0.30       0.30      85.58
+{txt}        292   {c |}{res}       1650       0.35       0.35      85.93
+{txt}        293   {c |}{res}       6464       1.39       1.39      87.32
+{txt}        294   {c |}{res}      10541       2.26       2.26      89.58
+{txt}        301   {c |}{res}        965       0.21       0.21      89.78
+{txt}        311   {c |}{res}        790       0.17       0.17      89.95
+{txt}        321   {c |}{res}       6239       1.34       1.34      91.29
+{txt}        322   {c |}{res}       6746       1.45       1.45      92.74
+{txt}        331   {c |}{res}       7349       1.57       1.57      94.31
+{txt}        332   {c |}{res}       3730       0.80       0.80      95.11
+{txt}        333   {c |}{res}       5298       1.14       1.14      96.25
+{txt}        334   {c |}{res}       5233       1.12       1.12      97.37
+{txt}        341   {c |}{res}       1322       0.28       0.28      97.65
+{txt}        351   {c |}{res}        838       0.18       0.18      97.83
+{txt}        361   {c |}{res}       6625       1.42       1.42      99.25
+{txt}        362   {c |}{res}       3505       0.75       0.75     100.00
+{txt}        Total {c |}{res}     466681     100.00     100.00           
+{txt}{hline 13}{hline 1}{c BT}{hline 44}
+
+{com}. tab Social_group Access_latrine if State==36 & NSS-Region==362 [iw=weight], row nofreq
+{err}Region not found
+{txt}{search r(111), local:r(111);}
+
+{com}. tab latrine_type
+
+  {txt}type of latrine used by the household {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+used_flush_pourFlush_to_piped_sewer_sys {c |}{res}     54,431       14.08       14.08
+{txt}    used_flush_pourFlush_to_septic_tank {c |}{res}    202,096       52.26       66.34
+{txt} used_flush_pourFlush_to_twin_leach_pit {c |}{res}     23,254        6.01       72.35
+{txt}     used_flush_pourFlush_to_single_pit {c |}{res}     58,026       15.01       87.36
+{txt}used_flush_pourFlush_to_elsewhere_opend {c |}{res}      1,833        0.47       87.83
+{txt}        ventilated_improved_pit_latrine {c |}{res}      3,689        0.95       88.79
+{txt}                  pit_latrine_with_slab {c |}{res}     34,932        9.03       97.82
+{txt}      pit_latrine_without_slab_open_pit {c |}{res}      3,583        0.93       98.75
+{txt}                     composting_latrine {c |}{res}        498        0.13       98.87
+{txt}                               not_used {c |}{res}      3,497        0.90       99.78
+{txt}                                 others {c |}{res}        855        0.22      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}    386,694      100.00
+
+{com}. tab Gender latrine_used_household [iw=weight], row nofreq \
+{err}option {bf:\} not allowed
+{txt}{search r(198), local:r(198);}
+
+{com}. tab Gender latrine_used_household [iw=weight], row nofreq
+
+            {txt}{c |} whether latrine used
+            {c |} is for exclusive use
+            {c |}   of the household
+     Gender {c |}       Yes         No {c |}     Total
+{hline 12}{c +}{hline 22}{c +}{hline 10}
+       Male {c |}{res}     84.18      15.82 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     86.97      13.03 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}     92.76       7.24 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 22}{c +}{hline 10}
+      Total {c |}{res}     85.51      14.49 {txt}{c |}{res}    100.00 
+
+{com}. tab Gender latrine_used_household if State==10 [iw=weight], row nofreq
+
+            {txt}{c |} whether latrine used
+            {c |} is for exclusive use
+            {c |}   of the household
+     Gender {c |}       Yes         No {c |}     Total
+{hline 12}{c +}{hline 22}{c +}{hline 10}
+       Male {c |}{res}     85.68      14.32 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     87.98      12.02 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}    100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 22}{c +}{hline 10}
+      Total {c |}{res}     86.73      13.27 {txt}{c |}{res}    100.00 
+
+{com}. tab Gender latrine_used_household if State==36 [iw=weight], row nofreq
+
+            {txt}{c |} whether latrine used
+            {c |} is for exclusive use
+            {c |}   of the household
+     Gender {c |}       Yes         No {c |}     Total
+{hline 12}{c +}{hline 22}{c +}{hline 10}
+       Male {c |}{res}     81.27      18.73 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     86.16      13.84 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}    100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 22}{c +}{hline 10}
+      Total {c |}{res}     83.69      16.31 {txt}{c |}{res}    100.00 
+
+{com}. tab Social_group reason_not_using_latrine if State==10 [iw=weight], row nofreq
+
+    {txt}Social {c |}                         reason for not using latrine
+     group {c |} No_supers  Malfuncti  Shortage_  Lack_of_p  Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 77}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00       0.00       0.00      45.42       0.00      54.58 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00       0.00       0.15       0.00       3.95      12.67      83.22 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.68       0.58       0.15       0.36       5.90       1.23      91.10 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00       0.00       0.00       0.62       0.00      99.38 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 77}{c +}{hline 10}
+     Total {c |}{res}      0.43       0.37       0.13       0.23       5.29       3.67      89.88 {txt}{c |}{res}    100.00 
+
+{com}. tab Social_group reason_not_using_latrine if State==36 [iw=weight], row nofreq
+
+    {txt}Social {c |}        reason for not using latrine
+     group {c |} Shortage_  Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00      26.63      73.37 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00       4.06       2.44      93.51 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.50       0.02       0.00      99.48 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}      0.31       0.74       2.55      96.40 {txt}{c |}{res}    100.00 
+
+{com}. tab reason_not_using_latrine
+
+           {txt}reason for not using latrine {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                      No_superstructure {c |}{res}        246        2.47        2.47
+{txt}Not_clean_sufficient_water_not_availabl {c |}{res}        645        6.48        8.95
+{txt}                         Malfunctioning {c |}{res}        270        2.71       11.66
+{txt}                    Shortage_of_latrine {c |}{res}         54        0.54       12.20
+{txt}                Used_for_other_purposes {c |}{res}        105        1.05       13.26
+{txt}                 Lack_of_privacy_safety {c |}{res}         45        0.45       13.71
+{txt}                    Personal_preference {c |}{res}        557        5.59       19.30
+{txt}                  Cannot_afford_charges {c |}{res}         67        0.67       19.98
+{txt}                                 Others {c |}{res}      7,967       80.02      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}      9,956      100.00
+
+{com}. bysort Sector: tab Social_group reason_not_using_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}   reason for not using latrine
+     group {c |} Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00      37.82      62.18 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      4.63       0.00      95.37 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.03       0.00      99.97 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      1.08       3.07      95.85 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}   reason for not using latrine
+     group {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00      19.76      80.24 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      1.43       0.00      98.57 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      0.98       1.40      97.62 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group reason_not_using_latrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}                   reason for not using latrine
+     group {c |} No_supers  Malfuncti  Lack_of_p  Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 66}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00       0.00      59.88       0.00      40.12 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00       0.00       0.00       4.89       0.00      95.11 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.75       0.63       0.40       6.49       0.22      91.51 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00       0.00       0.68       0.00      99.32 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 66}{c +}{hline 10}
+     Total {c |}{res}      0.49       0.41       0.26       5.98       0.14      92.71 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}   reason for not using latrine
+     group {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.79      65.93      33.28 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      1.64      11.38      86.98 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      1.12      30.80      68.08 {txt}{c |}{res}    100.00 
+
+
+{com}. tab Disposal_excreta
+
+ {txt}Disposal of {c |}
+animal/poult {c |}
+  ry excreta {c |}      Freq.     Percent        Cum.
+{hline 13}{c +}{hline 35}
+Biogas_plant {c |}{res}      2,148        1.22        1.22
+{txt}  Manure_pit {c |}{res}     82,594       46.98       48.20
+{txt}Used_as_fuel {c |}{res}     35,725       20.32       68.52
+{txt}   Not_known {c |}{res}      9,047        5.15       73.67
+{txt}      Others {c |}{res}     46,293       26.33      100.00
+{txt}{hline 13}{c +}{hline 35}
+       Total {c |}{res}    175,807      100.00
+
+{com}. tab disposal_place
+
+   {txt}place of disposal of {c |}
+     excreta  last time {c |}      Freq.     Percent        Cum.
+{hline 24}{c +}{hline 35}
+        Treatment_plant {c |}{res}      1,165        4.20        4.20
+{txt}  Buried_in_covered_pit {c |}{res}      2,320        8.36       12.55
+{txt}Uncovered_pit_open_land {c |}{res}      4,498       16.20       28.76
+{txt}              Not_known {c |}{res}     12,952       46.65       75.41
+{txt}                 Others {c |}{res}      6,827       24.59      100.00
+{txt}{hline 24}{c +}{hline 35}
+                  Total {c |}{res}     27,762      100.00
+
+{com}. tab Sector disposal_place [iw=weight], row nofreq
+
+           {txt}{c |}        place of disposal of excreta  last time
+    Sector {c |} Treatment  Buried_in  Uncovered  Not_known     Others {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Rural {c |}{res}      2.82       7.64      20.07      39.02      30.45 {txt}{c |}{res}    100.00 
+{txt}     Urban {c |}{res}      6.03       6.34      10.08      64.12      13.42 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}      4.46       6.98      14.98      51.81      21.77 {txt}{c |}{res}    100.00 
+
+{com}. tab Sector disposal_place if State==36 [iw=weight], row nofreq
+
+           {txt}{c |}        place of disposal of excreta  last time
+    Sector {c |} Treatment  Buried_in  Uncovered  Not_known     Others {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Rural {c |}{res}     12.62       4.11       0.00      72.98      10.30 {txt}{c |}{res}    100.00 
+{txt}     Urban {c |}{res}      3.62       4.05       9.96      64.15      18.23 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}      6.29       4.06       7.01      66.76      15.88 {txt}{c |}{res}    100.00 
+
+{com}. tab Sector disposal_place if State==10 [iw=weight], row nofreq
+
+           {txt}{c |}        place of disposal of excreta  last time
+    Sector {c |} Treatment  Buried_in  Uncovered  Not_known     Others {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Rural {c |}{res}      1.53      10.61      38.53      15.70      33.62 {txt}{c |}{res}    100.00 
+{txt}     Urban {c |}{res}      0.83       5.10      29.72      49.80      14.55 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}      1.33       9.01      35.98      25.59      28.09 {txt}{c |}{res}    100.00 
+
+{com}. bysort Sector: tab Social_group reason_not_using_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}   reason for not using latrine
+     group {c |} Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00      37.82      62.18 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      4.63       0.00      95.37 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.03       0.00      99.97 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      1.08       3.07      95.85 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}   reason for not using latrine
+     group {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00      19.76      80.24 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      1.43       0.00      98.57 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      0.98       1.40      97.62 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group reason_not_using_latrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}                   reason for not using latrine
+     group {c |} No_supers  Malfuncti  Lack_of_p  Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 66}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00       0.00      59.88       0.00      40.12 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00       0.00       0.00       4.89       0.00      95.11 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.75       0.63       0.40       6.49       0.22      91.51 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00       0.00       0.68       0.00      99.32 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 66}{c +}{hline 10}
+     Total {c |}{res}      0.49       0.41       0.26       5.98       0.14      92.71 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}   reason for not using latrine
+     group {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.79      65.93      33.28 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      1.64      11.38      86.98 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      1.12      30.80      68.08 {txt}{c |}{res}    100.00 
+
+
+{com}. tab Disposal_faeces_children_upto3yr
+
+ {txt}Disposal of faeces for {c |}
+children of age below 3 {c |}
+                  years {c |}      Freq.     Percent        Cum.
+{hline 24}{c +}{hline 35}
+  Children_used_latrine {c |}{res}      6,528        1.40        1.40
+{txt}Put_rinsed_into_latrine {c |}{res}     27,143        5.82        7.22
+{txt}  Put_rinsed_into_drain {c |}{res}      8,266        1.77        8.99
+{txt}    Thrown_into_garbage {c |}{res}     23,203        4.97       13.96
+{txt}    Thrown_left_in_open {c |}{res}     19,199        4.12       18.08
+{txt}                 Buried {c |}{res}      1,059        0.23       18.31
+{txt}         Not_applicable {c |}{res}    379,530       81.35       99.66
+{txt}                 Others {c |}{res}      1,599        0.34      100.00
+{txt}{hline 24}{c +}{hline 35}
+                  Total {c |}{res}    466,527      100.00
+
+{com}. tab water_sufficient
+
+    {txt}Whether {c |}
+       gets {c |}
+ sufficient {c |}
+      water {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}    416,700       89.32       89.32
+{txt}          2 {c |}{res}     49,827       10.68      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    466,527      100.00
+
+{com}. tab availability_water_inlatrine
+
+ {txt}availability of water in or {c |}
+     around the latrine used {c |}      Freq.     Percent        Cum.
+{hline 29}{c +}{hline 35}
+   Water_available_with_soap {c |}{res}    290,781       75.88       75.88
+{txt}Water_available_with_ash_mud {c |}{res}     19,495        5.09       80.97
+{txt}        Only_water_available {c |}{res}     59,722       15.59       96.56
+{txt}               Not_available {c |}{res}     13,195        3.44      100.00
+{txt}{hline 29}{c +}{hline 35}
+                       Total {c |}{res}    383,193      100.00
+
+{com}. bysort Sector: tab Social_group availability_water_inlatrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     66.92      15.31      12.80       4.97 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     60.15      24.20      11.80       3.85 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     65.33      14.79      16.91       2.98 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     78.27       8.82      10.68       2.23 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     67.04      15.20      14.77       2.99 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     97.37       0.00       2.63       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     79.34      10.71       9.07       0.88 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     85.45       6.68       6.71       1.17 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     93.88       2.60       3.03       0.48 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     87.13       5.97       5.95       0.95 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group availability_water_inlatrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     71.75       0.00      28.25       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     80.16       5.94      13.90       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     76.15       1.75      21.69       0.41 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     80.37       2.41      16.03       1.19 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     77.15       2.49      19.95       0.41 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     81.87       0.00      14.69       3.44 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     81.37       0.00      14.47       4.15 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     86.20       0.08      12.04       1.68 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     92.41       0.42       6.40       0.77 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     87.05       0.16      10.94       1.85 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Access_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}     Access of the household to latrine
+     group {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     38.48      12.84      48.60       0.08 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     69.89       3.09      27.02       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     71.87       8.05      19.71       0.37 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     86.84       8.19       4.97       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     69.69       7.59      22.49       0.23 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}    Access of the household to
+    Social {c |}             latrine
+     group {c |} Exclusive  Common_us  No_latrin {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     83.11      12.27       4.61 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     63.80      31.84       4.35 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     75.51      23.14       1.35 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     85.65      14.35       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     77.16      21.27       1.57 {txt}{c |}{res}    100.00 
+
+
+{com}. tab Sanitation_anybenifit
+
+{txt}Sanitation- {c |}
+    Whether {c |}
+       ever {c |}
+   received {c |}
+        any {c |}
+   benefit? {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          1 {c |}{res}     68,753       14.74       14.74
+{txt}          2 {c |}{res}    396,584       85.01       99.74
+{txt}          3 {c |}{res}      1,190        0.26      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    466,527      100.00
+
+{com}. tab Sanitation_scheme_max_benefit
+
+  {txt}Sanitation- scheme from {c |}
+which maximum benefit was {c |}
+                 received {c |}      Freq.     Percent        Cum.
+{hline 26}{c +}{hline 35}
+Swachh_Bharat_Mission_SBM {c |}{res}     53,831       91.04       91.04
+{txt}                    AMRUT {c |}{res}        105        0.18       91.22
+{txt}     Smart_Cities_Mission {c |}{res}         24        0.04       91.26
+{txt}                Not_known {c |}{res}      1,311        2.22       93.48
+{txt}             Other_scheme {c |}{res}      3,856        6.52      100.00
+{txt}{hline 26}{c +}{hline 35}
+                    Total {c |}{res}     59,127      100.00
+
+{com}. bysort Sector: tab Social_group Sanitation_scheme_max_benefit if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}  Sanitation- scheme from which
+    Social {c |}   maximum benefit was received
+     group {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00     100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     83.86       3.88      12.26 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     83.64       0.68      15.68 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     75.45       1.61      22.94 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     82.43       1.95      15.62 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}    Sanitation- scheme from which maximum
+    Social {c |}            benefit was received
+     group {c |} Swachh_Bh  Smart_Cit  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        SC {c |}{res}     84.09       0.00      15.91       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     83.93       5.11       2.65       8.30 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     84.84       3.31       6.47       5.38 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Sanitation_scheme_max_benefit if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}  Sanitation- scheme from which
+    Social {c |}   maximum benefit was received
+     group {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     95.11       0.00       4.89 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     78.48       0.00      21.52 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     76.69       2.13      21.17 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     80.34       1.40      18.26 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}  Sanitation- scheme from which
+    Social {c |}   maximum benefit was received
+     group {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     57.20       0.00      42.80 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     87.01       0.00      12.99 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     87.91       0.00      12.09 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     67.10      32.90       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     72.32       6.79      20.89 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Religion Sanitation_scheme_max_benefit if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+               {c |}  Sanitation- scheme from which
+               {c |}   maximum benefit was received
+      Religion {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 15}{c +}{hline 33}{c +}{hline 10}
+      Hindusim {c |}{res}     81.24       2.06      16.69 {txt}{c |}{res}    100.00 
+{txt}         Islam {c |}{res}     85.28       1.69      13.03 {txt}{c |}{res}    100.00 
+{txt}   Christainty {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        Others {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 15}{c +}{hline 33}{c +}{hline 10}
+         Total {c |}{res}     82.43       1.95      15.62 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+               {c |}    Sanitation- scheme from which maximum
+               {c |}            benefit was received
+      Religion {c |} Swachh_Bh  Smart_Cit  Not_known  Other_sch {c |}     Total
+{hline 15}{c +}{hline 44}{c +}{hline 10}
+      Hindusim {c |}{res}     90.77       0.00       9.23       0.00 {txt}{c |}{res}    100.00 
+{txt}         Islam {c |}{res}     77.33       0.00       0.00      22.67 {txt}{c |}{res}    100.00 
+{txt}        Others {c |}{res}     45.98      54.02       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 15}{c +}{hline 44}{c +}{hline 10}
+         Total {c |}{res}     84.84       3.31       6.47       5.38 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender Sanitation_scheme_max_benefit if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}  Sanitation- scheme from which
+            {c |}   maximum benefit was received
+     Gender {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}     83.13       2.29      14.58 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     81.65       1.58      16.78 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}     82.43       1.95      15.62 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}    Sanitation- scheme from which maximum
+            {c |}            benefit was received
+     Gender {c |} Swachh_Bh  Smart_Cit  Not_known  Other_sch {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     86.70       2.26       7.51       3.54 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     83.06       4.32       5.48       7.13 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     84.84       3.31       6.47       5.38 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Age Sanitation_scheme_max_benefit if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}  Sanitation- scheme from which
+           {c |}   maximum benefit was received
+       Age {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+         0 {c |}{res}     61.27       0.00      38.73 {txt}{c |}{res}    100.00 
+{txt}         1 {c |}{res}     63.42       0.00      36.58 {txt}{c |}{res}    100.00 
+{txt}         2 {c |}{res}     88.77       2.60       8.63 {txt}{c |}{res}    100.00 
+{txt}         3 {c |}{res}     80.92       0.00      19.08 {txt}{c |}{res}    100.00 
+{txt}         4 {c |}{res}     87.84       1.09      11.08 {txt}{c |}{res}    100.00 
+{txt}         5 {c |}{res}     85.92       1.35      12.73 {txt}{c |}{res}    100.00 
+{txt}         6 {c |}{res}     85.30       1.17      13.53 {txt}{c |}{res}    100.00 
+{txt}         7 {c |}{res}     86.57       1.08      12.35 {txt}{c |}{res}    100.00 
+{txt}         8 {c |}{res}     80.95       3.12      15.93 {txt}{c |}{res}    100.00 
+{txt}         9 {c |}{res}     96.22       0.00       3.78 {txt}{c |}{res}    100.00 
+{txt}        10 {c |}{res}     82.32       4.91      12.77 {txt}{c |}{res}    100.00 
+{txt}        11 {c |}{res}     92.24       0.00       7.76 {txt}{c |}{res}    100.00 
+{txt}        12 {c |}{res}     81.67       0.55      17.78 {txt}{c |}{res}    100.00 
+{txt}        13 {c |}{res}     91.34       0.00       8.66 {txt}{c |}{res}    100.00 
+{txt}        14 {c |}{res}     80.51       0.82      18.67 {txt}{c |}{res}    100.00 
+{txt}        15 {c |}{res}     93.80       0.00       6.20 {txt}{c |}{res}    100.00 
+{txt}        16 {c |}{res}     72.05       3.16      24.79 {txt}{c |}{res}    100.00 
+{txt}        17 {c |}{res}     92.33       0.00       7.67 {txt}{c |}{res}    100.00 
+{txt}        18 {c |}{res}     73.11       3.23      23.66 {txt}{c |}{res}    100.00 
+{txt}        19 {c |}{res}     88.58       0.00      11.42 {txt}{c |}{res}    100.00 
+{txt}        20 {c |}{res}     53.33      13.44      33.23 {txt}{c |}{res}    100.00 
+{txt}        21 {c |}{res}     76.12       0.00      23.88 {txt}{c |}{res}    100.00 
+{txt}        22 {c |}{res}     57.44       7.15      35.40 {txt}{c |}{res}    100.00 
+{txt}        23 {c |}{res}     82.15       0.00      17.85 {txt}{c |}{res}    100.00 
+{txt}        24 {c |}{res}     73.67       2.70      23.63 {txt}{c |}{res}    100.00 
+{txt}        25 {c |}{res}     69.25       1.75      29.00 {txt}{c |}{res}    100.00 
+{txt}        26 {c |}{res}     87.89       0.00      12.11 {txt}{c |}{res}    100.00 
+{txt}        27 {c |}{res}     95.77       4.23       0.00 {txt}{c |}{res}    100.00 
+{txt}        28 {c |}{res}     75.64       0.00      24.36 {txt}{c |}{res}    100.00 
+{txt}        29 {c |}{res}     93.80       0.00       6.20 {txt}{c |}{res}    100.00 
+{txt}        30 {c |}{res}     87.24       1.10      11.66 {txt}{c |}{res}    100.00 
+{txt}        31 {c |}{res}     77.19       8.83      13.98 {txt}{c |}{res}    100.00 
+{txt}        32 {c |}{res}     81.40       0.94      17.65 {txt}{c |}{res}    100.00 
+{txt}        33 {c |}{res}     89.70       0.00      10.30 {txt}{c |}{res}    100.00 
+{txt}        34 {c |}{res}     84.95       1.64      13.41 {txt}{c |}{res}    100.00 
+{txt}        35 {c |}{res}     80.39       2.72      16.89 {txt}{c |}{res}    100.00 
+{txt}        36 {c |}{res}     72.60       3.73      23.67 {txt}{c |}{res}    100.00 
+{txt}        37 {c |}{res}     91.15       0.00       8.85 {txt}{c |}{res}    100.00 
+{txt}        38 {c |}{res}     92.31       0.00       7.69 {txt}{c |}{res}    100.00 
+{txt}        39 {c |}{res}     93.43       2.04       4.52 {txt}{c |}{res}    100.00 
+{txt}        40 {c |}{res}     81.83       4.07      14.10 {txt}{c |}{res}    100.00 
+{txt}        41 {c |}{res}     90.35       0.00       9.65 {txt}{c |}{res}    100.00 
+{txt}        42 {c |}{res}     87.32       2.71       9.97 {txt}{c |}{res}    100.00 
+{txt}        43 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        44 {c |}{res}     59.09       0.00      40.91 {txt}{c |}{res}    100.00 
+{txt}        45 {c |}{res}     77.29       2.41      20.30 {txt}{c |}{res}    100.00 
+{txt}        46 {c |}{res}     44.95       0.00      55.05 {txt}{c |}{res}    100.00 
+{txt}        47 {c |}{res}     67.76       0.00      32.24 {txt}{c |}{res}    100.00 
+{txt}        48 {c |}{res}     79.77       0.00      20.23 {txt}{c |}{res}    100.00 
+{txt}        49 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        50 {c |}{res}     57.23       5.24      37.53 {txt}{c |}{res}    100.00 
+{txt}        51 {c |}{res}     89.53       0.00      10.47 {txt}{c |}{res}    100.00 
+{txt}        52 {c |}{res}     85.30       0.00      14.70 {txt}{c |}{res}    100.00 
+{txt}        53 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        54 {c |}{res}     95.59       0.00       4.41 {txt}{c |}{res}    100.00 
+{txt}        55 {c |}{res}     87.52       2.00      10.48 {txt}{c |}{res}    100.00 
+{txt}        56 {c |}{res}     91.67       0.00       8.33 {txt}{c |}{res}    100.00 
+{txt}        57 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        58 {c |}{res}     73.80      13.90      12.30 {txt}{c |}{res}    100.00 
+{txt}        59 {c |}{res}     93.93       0.00       6.07 {txt}{c |}{res}    100.00 
+{txt}        60 {c |}{res}     88.00       0.00      12.00 {txt}{c |}{res}    100.00 
+{txt}        61 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        62 {c |}{res}     82.87      14.21       2.91 {txt}{c |}{res}    100.00 
+{txt}        63 {c |}{res}     76.02       0.00      23.98 {txt}{c |}{res}    100.00 
+{txt}        64 {c |}{res}     85.73      14.27       0.00 {txt}{c |}{res}    100.00 
+{txt}        65 {c |}{res}     85.28       0.00      14.72 {txt}{c |}{res}    100.00 
+{txt}        66 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        67 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        68 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        69 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        70 {c |}{res}     70.64       0.00      29.36 {txt}{c |}{res}    100.00 
+{txt}        71 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        72 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        75 {c |}{res}     54.64       0.00      45.36 {txt}{c |}{res}    100.00 
+{txt}        76 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        80 {c |}{res}     13.54       0.00      86.46 {txt}{c |}{res}    100.00 
+{txt}        85 {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     82.43       1.95      15.62 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}    Sanitation- scheme from which maximum
+           {c |}            benefit was received
+       Age {c |} Swachh_Bh  Smart_Cit  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+         0 {c |}{res}     70.08       0.00      29.92       0.00 {txt}{c |}{res}    100.00 
+{txt}         1 {c |}{res}     50.90      49.10       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}         2 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}         3 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}         4 {c |}{res}     67.39       0.00      17.93      14.68 {txt}{c |}{res}    100.00 
+{txt}         5 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}         6 {c |}{res}     65.66       0.00      18.88      15.46 {txt}{c |}{res}    100.00 
+{txt}         7 {c |}{res}     89.85       0.00      10.15       0.00 {txt}{c |}{res}    100.00 
+{txt}         8 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}         9 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        10 {c |}{res}     91.13       0.00       8.87       0.00 {txt}{c |}{res}    100.00 
+{txt}        11 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        12 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        13 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        14 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        15 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        16 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        17 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        18 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        19 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        20 {c |}{res}     40.07      40.53      19.40       0.00 {txt}{c |}{res}    100.00 
+{txt}        21 {c |}{res}     12.23       0.00       0.00      87.77 {txt}{c |}{res}    100.00 
+{txt}        22 {c |}{res}     65.07       0.00      34.93       0.00 {txt}{c |}{res}    100.00 
+{txt}        23 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        24 {c |}{res}     82.27       0.00       0.00      17.73 {txt}{c |}{res}    100.00 
+{txt}        25 {c |}{res}      0.00      67.63      32.37       0.00 {txt}{c |}{res}    100.00 
+{txt}        26 {c |}{res}     77.95       0.00      22.05       0.00 {txt}{c |}{res}    100.00 
+{txt}        28 {c |}{res}     72.04       0.00      15.37      12.59 {txt}{c |}{res}    100.00 
+{txt}        29 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        30 {c |}{res}     91.63       0.00       8.37       0.00 {txt}{c |}{res}    100.00 
+{txt}        32 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        33 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        34 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        35 {c |}{res}     87.56       0.00      12.44       0.00 {txt}{c |}{res}    100.00 
+{txt}        36 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        37 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        38 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        39 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        40 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        41 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        42 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        44 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        45 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        46 {c |}{res}      0.00       0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        49 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        50 {c |}{res}     30.00       0.00       0.00      70.00 {txt}{c |}{res}    100.00 
+{txt}        52 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        53 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        55 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        56 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        57 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        58 {c |}{res}      0.00       0.00     100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        59 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        60 {c |}{res}     43.21       0.00       0.00      56.79 {txt}{c |}{res}    100.00 
+{txt}        62 {c |}{res}      0.00       0.00     100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        64 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        65 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        70 {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     84.84       3.31       6.47       5.38 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Access_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}     Access of the household to latrine
+     group {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     38.48      12.84      48.60       0.08 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     69.89       3.09      27.02       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     71.87       8.05      19.71       0.37 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     86.84       8.19       4.97       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     69.69       7.59      22.49       0.23 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}    Access of the household to
+    Social {c |}             latrine
+     group {c |} Exclusive  Common_us  No_latrin {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     83.11      12.27       4.61 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     63.80      31.84       4.35 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     75.51      23.14       1.35 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     85.65      14.35       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     77.16      21.27       1.57 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Access_latrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}     Access of the household to latrine
+     group {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     24.77       6.93      68.29       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     38.99       5.52      55.38       0.12 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     58.06       8.40      32.96       0.58 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     76.72       7.92      15.26       0.10 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     55.75       7.61      36.25       0.39 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}           Access of the household to latrine
+     group {c |} Exclusive  Common_us  Public_co  No_latrin     Others {c |}     Total
+{hline 11}{c +}{hline 55}{c +}{hline 10}
+        ST {c |}{res}     84.13      15.87       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     56.03      15.12       4.26      24.59       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     74.13      22.67       0.19       2.83       0.18 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     90.00      10.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 55}{c +}{hline 10}
+     Total {c |}{res}     75.68      18.49       0.69       5.04       0.11 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender Access_latrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}     Access of the household to latrine
+     Gender {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     55.81       7.81      35.96       0.42 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     55.68       7.36      36.59       0.36 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}     78.16       0.00      21.84       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     55.75       7.61      36.25       0.39 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}           Access of the household to latrine
+     Gender {c |} Exclusive  Common_us  Public_co  No_latrin     Others {c |}     Total
+{hline 12}{c +}{hline 55}{c +}{hline 10}
+       Male {c |}{res}     71.87      22.82       0.60       4.60       0.11 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     80.53      12.96       0.80       5.59       0.11 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}    100.00       0.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 55}{c +}{hline 10}
+      Total {c |}{res}     75.68      18.49       0.69       5.04       0.11 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender Access_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}     Access of the household to latrine
+     Gender {c |} Exclusive  Common_us  No_latrin     Others {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     70.74       5.89      23.06       0.31 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     68.80       9.01      22.03       0.16 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     69.69       7.59      22.49       0.23 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}    Access of the household to
+            {c |}             latrine
+     Gender {c |} Exclusive  Common_us  No_latrin {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}     72.75      25.56       1.69 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     82.72      15.87       1.41 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}     77.16      21.27       1.57 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group reason_not_using_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}   reason for not using latrine
+     group {c |} Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00      37.82      62.18 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      4.63       0.00      95.37 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.03       0.00      99.97 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      1.08       3.07      95.85 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}   reason for not using latrine
+     group {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00      19.76      80.24 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      1.43       0.00      98.57 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      0.98       1.40      97.62 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group reason_not_using_latrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+    Social {c |}                   reason for not using latrine
+     group {c |} No_supers  Malfuncti  Lack_of_p  Personal_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 66}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00       0.00      59.88       0.00      40.12 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.00       0.00       0.00       4.89       0.00      95.11 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      0.75       0.63       0.40       6.49       0.22      91.51 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00       0.00       0.68       0.00      99.32 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 66}{c +}{hline 10}
+     Total {c |}{res}      0.49       0.41       0.26       5.98       0.14      92.71 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+    Social {c |}   reason for not using latrine
+     group {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      0.79      65.93      33.28 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      1.64      11.38      86.98 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      1.12      30.80      68.08 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender reason_not_using_latrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}   reason for not using latrine
+     Gender {c |} Personal_  Cannot_af     Others {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}      1.88       5.34      92.78 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}      0.00       0.00     100.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}      1.08       3.07      95.85 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}   reason for not using latrine
+     Gender {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}      0.98       0.00      99.02 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}      0.98       2.80      96.22 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}      0.98       1.40      97.62 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender reason_not_using_latrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}                   reason for not using latrine
+     Gender {c |} No_supers  Malfuncti  Lack_of_p  Personal_  Cannot_af     Others {c |}     Total
+{hline 12}{c +}{hline 66}{c +}{hline 10}
+       Male {c |}{res}      0.26       0.35       0.00       9.06       0.23      90.10 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}      0.88       0.52       0.69       0.82       0.00      97.09 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 66}{c +}{hline 10}
+      Total {c |}{res}      0.49       0.41       0.26       5.98       0.14      92.71 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}   reason for not using latrine
+     Gender {c |} Shortage_  Cannot_af     Others {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}      2.44      36.09      61.48 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}      0.00      26.29      73.71 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}      1.12      30.80      68.08 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group availability_water_inlatrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     71.75       0.00      28.25       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     80.16       5.94      13.90       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     76.15       1.75      21.69       0.41 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     80.37       2.41      16.03       1.19 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     77.15       2.49      19.95       0.41 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     81.87       0.00      14.69       3.44 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     81.37       0.00      14.47       4.15 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     86.20       0.08      12.04       1.68 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     92.41       0.42       6.40       0.77 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     87.05       0.16      10.94       1.85 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group availability_water_inlatrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     66.92      15.31      12.80       4.97 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     60.15      24.20      11.80       3.85 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     65.33      14.79      16.91       2.98 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     78.27       8.82      10.68       2.23 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     67.04      15.20      14.77       2.99 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}   availability of water in or around the
+    Social {c |}                latrine used
+     group {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        ST {c |}{res}     97.37       0.00       2.63       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     79.34      10.71       9.07       0.88 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     85.45       6.68       6.71       1.17 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     93.88       2.60       3.03       0.48 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     87.13       5.97       5.95       0.95 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender availability_water_inlatrine if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}   availability of water in or around the
+            {c |}                latrine used
+     Gender {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     76.95       2.37      20.23       0.45 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     77.35       2.59      19.68       0.37 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}      0.00       0.00     100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     77.15       2.49      19.95       0.41 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}   availability of water in or around the
+            {c |}                latrine used
+     Gender {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     87.60       0.06      10.54       1.80 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     86.38       0.28      11.44       1.90 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     87.05       0.16      10.94       1.85 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender availability_water_inlatrine if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}   availability of water in or around the
+            {c |}                latrine used
+     Gender {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     67.23      15.33      14.40       3.04 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     66.81      15.05      15.21       2.93 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}     73.57       0.00       0.00      26.43 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     67.04      15.20      14.77       2.99 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}   availability of water in or around the
+            {c |}                latrine used
+     Gender {c |} Water_ava  Water_ava  Only_wate  Not_avail {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     87.44       5.84       5.85       0.87 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     86.74       6.12       6.09       1.05 {txt}{c |}{res}    100.00 
+{txt}Transgender {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     87.13       5.97       5.95       0.95 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Sanitation_scheme_max_benefit if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}  Sanitation- scheme from which
+    Social {c |}   maximum benefit was received
+     group {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     95.11       0.00       4.89 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     78.48       0.00      21.52 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     76.69       2.13      21.17 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}    100.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     80.34       1.40      18.26 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}  Sanitation- scheme from which
+    Social {c |}   maximum benefit was received
+     group {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     57.20       0.00      42.80 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     87.01       0.00      12.99 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     87.91       0.00      12.09 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     67.10      32.90       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     72.32       6.79      20.89 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Sanitation_scheme_max_benefit if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}  Sanitation- scheme from which
+    Social {c |}   maximum benefit was received
+     group {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}      0.00     100.00       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     83.86       3.88      12.26 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     83.64       0.68      15.68 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     75.45       1.61      22.94 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}     82.43       1.95      15.62 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}    Sanitation- scheme from which maximum
+    Social {c |}            benefit was received
+     group {c |} Swachh_Bh  Smart_Cit  Not_known  Other_sch {c |}     Total
+{hline 11}{c +}{hline 44}{c +}{hline 10}
+        SC {c |}{res}     84.09       0.00      15.91       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     83.93       5.11       2.65       8.30 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}    100.00       0.00       0.00       0.00 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 44}{c +}{hline 10}
+     Total {c |}{res}     84.84       3.31       6.47       5.38 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender Sanitation_scheme_max_benefit if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}  Sanitation- scheme from which
+            {c |}   maximum benefit was received
+     Gender {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}     79.75       2.35      17.89 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     80.83       0.58      18.58 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}     80.34       1.40      18.26 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}  Sanitation- scheme from which
+            {c |}   maximum benefit was received
+     Gender {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}     61.76      10.72      27.52 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     81.89       3.23      14.88 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}     72.32       6.79      20.89 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Gender Sanitation_scheme_max_benefit if State==10 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+            {c |}  Sanitation- scheme from which
+            {c |}   maximum benefit was received
+     Gender {c |} Swachh_Bh  Not_known  Other_sch {c |}     Total
+{hline 12}{c +}{hline 33}{c +}{hline 10}
+       Male {c |}{res}     83.13       2.29      14.58 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     81.65       1.58      16.78 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 33}{c +}{hline 10}
+      Total {c |}{res}     82.43       1.95      15.62 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+            {c |}    Sanitation- scheme from which maximum
+            {c |}            benefit was received
+     Gender {c |} Swachh_Bh  Smart_Cit  Not_known  Other_sch {c |}     Total
+{hline 12}{c +}{hline 44}{c +}{hline 10}
+       Male {c |}{res}     86.70       2.26       7.51       3.54 {txt}{c |}{res}    100.00 
+{txt}     Female {c |}{res}     83.06       4.32       5.48       7.13 {txt}{c |}{res}    100.00 
+{txt}{hline 12}{c +}{hline 44}{c +}{hline 10}
+      Total {c |}{res}     84.84       3.31       6.47       5.38 {txt}{c |}{res}    100.00 
+
+
+{com}. bysort Sector: tab Social_group Sanitation_anybenifit if State==36 [iw=weight], row nofreq
+
+{txt}{hline}
+-> Sector = Rural
+
+           {c |}  Sanitation- Whether
+           {c |}   ever received any
+    Social {c |}       benefit?
+     group {c |}         1          2 {c |}     Total
+{hline 11}{c +}{hline 22}{c +}{hline 10}
+        ST {c |}{res}     20.50      79.50 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}     24.28      75.72 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}     17.86      82.14 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}     20.14      79.86 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 22}{c +}{hline 10}
+     Total {c |}{res}     19.63      80.37 {txt}{c |}{res}    100.00 
+
+{txt}{hline}
+-> Sector = Urban
+
+           {c |}     Sanitation- Whether ever
+    Social {c |}      received any benefit?
+     group {c |}         1          2          3 {c |}     Total
+{hline 11}{c +}{hline 33}{c +}{hline 10}
+        ST {c |}{res}     11.91      88.09       0.00 {txt}{c |}{res}    100.00 
+{txt}        SC {c |}{res}      1.21      98.79       0.00 {txt}{c |}{res}    100.00 
+{txt}       OBC {c |}{res}      2.13      96.89       0.98 {txt}{c |}{res}    100.00 
+{txt}    Others {c |}{res}      1.03      98.91       0.05 {txt}{c |}{res}    100.00 
+{txt}{hline 11}{c +}{hline 33}{c +}{hline 10}
+     Total {c |}{res}      2.28      97.18       0.54 {txt}{c |}{res}    100.00 
+
+
+{com}. tab Access_latrine
+
+ {txt}Access of the household to {c |}
+                    latrine {c |}      Freq.     Percent        Cum.
+{hline 28}{c +}{hline 35}
+              Exclusive_use {c |}{res}    346,983       74.38       74.38
+{txt}        Common_use_building {c |}{res}     32,557        6.98       81.35
+{txt}Public_community_no_payment {c |}{res}      3,056        0.66       82.01
+{txt}   Public_community_payment {c |}{res}      1,825        0.39       82.40
+{txt}                 No_latrine {c |}{res}     79,833       17.11       99.51
+{txt}                     Others {c |}{res}      2,273        0.49      100.00
+{txt}{hline 28}{c +}{hline 35}
+                      Total {c |}{res}    466,527      100.00
+
+{com}. tab reason_not_using_latrine
+
+           {txt}reason for not using latrine {c |}      Freq.     Percent        Cum.
+{hline 40}{c +}{hline 35}
+                      No_superstructure {c |}{res}        246        2.47        2.47
+{txt}Not_clean_sufficient_water_not_availabl {c |}{res}        645        6.48        8.95
+{txt}                         Malfunctioning {c |}{res}        270        2.71       11.66
+{txt}                    Shortage_of_latrine {c |}{res}         54        0.54       12.20
+{txt}                Used_for_other_purposes {c |}{res}        105        1.05       13.26
+{txt}                 Lack_of_privacy_safety {c |}{res}         45        0.45       13.71
+{txt}                    Personal_preference {c |}{res}        557        5.59       19.30
+{txt}                  Cannot_afford_charges {c |}{res}         67        0.67       19.98
+{txt}                                 Others {c |}{res}      7,967       80.02      100.00
+{txt}{hline 40}{c +}{hline 35}
+                                  Total {c |}{res}      9,956      100.00
+
+{com}. tab availability_water_inlatrine
+
+ {txt}availability of water in or {c |}
+     around the latrine used {c |}      Freq.     Percent        Cum.
+{hline 29}{c +}{hline 35}
+   Water_available_with_soap {c |}{res}    290,781       75.88       75.88
+{txt}Water_available_with_ash_mud {c |}{res}     19,495        5.09       80.97
+{txt}        Only_water_available {c |}{res}     59,722       15.59       96.56
+{txt}               Not_available {c |}{res}     13,195        3.44      100.00
+{txt}{hline 29}{c +}{hline 35}
+                       Total {c |}{res}    383,193      100.00
+
+{com}. gen Water_Available=0 if availability_water_inlatrine==4
+{txt}(453,486 missing values generated)
+
+{com}. drop Water_Available
+
+. gen Water_Available=0 if availability_water_inlatrine==2
+{txt}(447,186 missing values generated)
+
+{com}. replace Water_Available=0 if availability_water_inlatrine==3
+{txt}(59,722 real changes made)
+
+{com}. replace Water_Available=1 if availability_water_inlatrine==1
+{txt}(290,781 real changes made)
+
+{com}. replace Water_Available=2 if availability_water_inlatrine==4
+{txt}(13,195 real changes made)
+
+{com}. tab Water_Available
+
+{txt}Water_Avail {c |}
+       able {c |}      Freq.     Percent        Cum.
+{hline 12}{c +}{hline 35}
+          0 {c |}{res}     79,217       20.67       20.67
+{txt}          1 {c |}{res}    290,781       75.88       96.56
+{txt}          2 {c |}{res}     13,195        3.44      100.00
+{txt}{hline 12}{c +}{hline 35}
+      Total {c |}{res}    383,193      100.00
+
+{com}. fre Water_Available
+{res}
+{txt}Water_Available
+{txt}{hline 13}{hline 1}{c TT}{hline 44}
+{txt}        {txt}      {c |}      Freq.    Percent      Valid       Cum.
+{txt}{hline 13}{hline 1}{c +}{hline 44}
+{txt}Valid   0     {c |}{res}      79217      16.97      20.67      20.67
+{txt}        1     {c |}{res}     290781      62.31      75.88      96.56
+{txt}        2     {c |}{res}      13195       2.83       3.44     100.00
+{txt}        Total {c |}{res}     383193      82.11     100.00           
+{txt}Missing .     {c |}{res}      83488      17.89                      
+{txt}Total         {c |}{res}     466681     100.00                      
+{txt}{hline 13}{hline 1}{c BT}{hline 44}
+
+{com}. logit Water_Available i.Social_group
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-195271.36}  
+Iteration 1:{space 3}log likelihood = {res:-190901.98}  
+Iteration 2:{space 3}log likelihood = {res:-190761.57}  
+Iteration 3:{space 3}log likelihood = {res:-190761.52}  
+Iteration 4:{space 3}log likelihood = {res:-190761.52}  
+{res}
+{txt}{col 1}Logistic regression{col 56}{lalign 13:Number of obs}{col 69} = {res}{ralign 7:383,193}
+{txt}{col 56}{lalign 13:LR chi2({res:3})}{col 69} = {res}{ralign 7:9019.67}
+{txt}{col 56}{lalign 13:Prob > chi2}{col 69} = {res}{ralign 7:0.0000}
+{txt}{col 1}{lalign 14:Log likelihood}{col 15} = {res}{ralign 10:-190761.52}{txt}{col 56}{lalign 13:Pseudo R2}{col 69} = {res}{ralign 7:0.0231}
+
+{txt}{hline 16}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}Water_Available{col 17}{c |} Coefficient{col 29}  Std. err.{col 41}      z{col 49}   P>|z|{col 57}     [95% con{col 70}f. interval]
+{hline 16}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 3}Social_group {c |}
+{space 12}SC  {c |}{col 17}{res}{space 2} .5343829{col 29}{space 2} .0135622{col 40}{space 1}   39.40{col 49}{space 3}0.000{col 57}{space 4} .5078014{col 70}{space 3} .5609643
+{txt}{space 11}OBC  {c |}{col 17}{res}{space 2}  .727428{col 29}{space 2} .0111418{col 40}{space 1}   65.29{col 49}{space 3}0.000{col 57}{space 4} .7055904{col 70}{space 3} .7492656
+{txt}{space 8}Others  {c |}{col 17}{res}{space 2} 1.163654{col 29}{space 2}  .012431{col 40}{space 1}   93.61{col 49}{space 3}0.000{col 57}{space 4}  1.13929{col 70}{space 3} 1.188018
+{txt}{space 15} {c |}
+{space 10}_cons {c |}{col 17}{res}{space 2} .6501898{col 29}{space 2} .0091853{col 40}{space 1}   70.79{col 49}{space 3}0.000{col 57}{space 4} .6321869{col 70}{space 3} .6681927
+{txt}{hline 16}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+
+{com}. logit Water_Available i.Social_group or
+{err}variable {bf}or{sf} not found
+{txt}{search r(111), local:r(111);}
+
+{com}. logit Water_Available i.Social_group, or
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-195271.36}  
+Iteration 1:{space 3}log likelihood = {res:-190901.98}  
+Iteration 2:{space 3}log likelihood = {res:-190761.57}  
+Iteration 3:{space 3}log likelihood = {res:-190761.52}  
+Iteration 4:{space 3}log likelihood = {res:-190761.52}  
+{res}
+{txt}{col 1}Logistic regression{col 56}{lalign 13:Number of obs}{col 69} = {res}{ralign 7:383,193}
+{txt}{col 56}{lalign 13:LR chi2({res:3})}{col 69} = {res}{ralign 7:9019.67}
+{txt}{col 56}{lalign 13:Prob > chi2}{col 69} = {res}{ralign 7:0.0000}
+{txt}{col 1}{lalign 14:Log likelihood}{col 15} = {res}{ralign 10:-190761.52}{txt}{col 56}{lalign 13:Pseudo R2}{col 69} = {res}{ralign 7:0.0231}
+
+{txt}{hline 16}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}Water_Available{col 17}{c |} Odds ratio{col 29}   Std. err.{col 41}      z{col 49}   P>|z|{col 57}     [95% con{col 70}f. interval]
+{hline 16}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 3}Social_group {c |}
+{space 12}SC  {c |}{col 17}{res}{space 2} 1.706395{col 29}{space 2} .0231425{col 40}{space 1}   39.40{col 49}{space 3}0.000{col 57}{space 4} 1.661634{col 70}{space 3} 1.752361
+{txt}{space 11}OBC  {c |}{col 17}{res}{space 2}  2.06975{col 29}{space 2} .0230608{col 40}{space 1}   65.29{col 49}{space 3}0.000{col 57}{space 4} 2.025042{col 70}{space 3} 2.115446
+{txt}{space 8}Others  {c |}{col 17}{res}{space 2} 3.201611{col 29}{space 2} .0397991{col 40}{space 1}   93.61{col 49}{space 3}0.000{col 57}{space 4} 3.124549{col 70}{space 3} 3.280574
+{txt}{space 15} {c |}
+{space 10}_cons {c |}{col 17}{res}{space 2} 1.915904{col 29}{space 2} .0175982{col 40}{space 1}   70.79{col 49}{space 3}0.000{col 57}{space 4} 1.881721{col 70}{space 3} 1.950709
+{txt}{hline 16}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{p 0 6 2}Note: {bf:_cons} estimates baseline odds{txt}.{p_end}
+
+{com}. logit Water_Available i.Gender
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-195271.36}  
+Iteration 1:{space 3}log likelihood = {res:-195269.93}  
+Iteration 2:{space 3}log likelihood = {res:-195269.91}  
+Iteration 3:{space 3}log likelihood = {res:-195269.91}  
+{res}
+{txt}{col 1}Logistic regression{col 56}{lalign 13:Number of obs}{col 69} = {res}{ralign 7:383,193}
+{txt}{col 56}{lalign 13:LR chi2({res:2})}{col 69} = {res}{ralign 7:2.90}
+{txt}{col 56}{lalign 13:Prob > chi2}{col 69} = {res}{ralign 7:0.2346}
+{txt}{col 1}{lalign 14:Log likelihood}{col 15} = {res}{ralign 10:-195269.91}{txt}{col 56}{lalign 13:Pseudo R2}{col 69} = {res}{ralign 7:0.0000}
+
+{txt}{hline 16}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}Water_Available{col 17}{c |} Coefficient{col 29}  Std. err.{col 41}      z{col 49}   P>|z|{col 57}     [95% con{col 70}f. interval]
+{hline 16}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}Gender {c |}
+{space 8}Female  {c |}{col 17}{res}{space 2} .0055651{col 29}{space 2} .0079837{col 40}{space 1}    0.70{col 49}{space 3}0.486{col 57}{space 4}-.0100827{col 70}{space 3} .0212129
+{txt}{space 3}Transgender  {c |}{col 17}{res}{space 2}-.4771478{col 29}{space 2} .2980714{col 40}{space 1}   -1.60{col 49}{space 3}0.109{col 57}{space 4}-1.061357{col 70}{space 3} .1070614
+{txt}{space 15} {c |}
+{space 10}_cons {c |}{col 17}{res}{space 2} 1.342145{col 29}{space 2}  .005548{col 40}{space 1}  241.92{col 49}{space 3}0.000{col 57}{space 4} 1.331271{col 70}{space 3} 1.353019
+{txt}{hline 16}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+
+{com}. logit Water_Available i.Gender, or
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-195271.36}  
+Iteration 1:{space 3}log likelihood = {res:-195269.93}  
+Iteration 2:{space 3}log likelihood = {res:-195269.91}  
+Iteration 3:{space 3}log likelihood = {res:-195269.91}  
+{res}
+{txt}{col 1}Logistic regression{col 56}{lalign 13:Number of obs}{col 69} = {res}{ralign 7:383,193}
+{txt}{col 56}{lalign 13:LR chi2({res:2})}{col 69} = {res}{ralign 7:2.90}
+{txt}{col 56}{lalign 13:Prob > chi2}{col 69} = {res}{ralign 7:0.2346}
+{txt}{col 1}{lalign 14:Log likelihood}{col 15} = {res}{ralign 10:-195269.91}{txt}{col 56}{lalign 13:Pseudo R2}{col 69} = {res}{ralign 7:0.0000}
+
+{txt}{hline 16}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}Water_Available{col 17}{c |} Odds ratio{col 29}   Std. err.{col 41}      z{col 49}   P>|z|{col 57}     [95% con{col 70}f. interval]
+{hline 16}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}Gender {c |}
+{space 8}Female  {c |}{col 17}{res}{space 2} 1.005581{col 29}{space 2} .0080283{col 40}{space 1}    0.70{col 49}{space 3}0.486{col 57}{space 4}  .989968{col 70}{space 3} 1.021439
+{txt}{space 3}Transgender  {c |}{col 17}{res}{space 2} .6205508{col 29}{space 2} .1849684{col 40}{space 1}   -1.60{col 49}{space 3}0.109{col 57}{space 4}  .345986{col 70}{space 3} 1.113003
+{txt}{space 15} {c |}
+{space 10}_cons {c |}{col 17}{res}{space 2} 3.827245{col 29}{space 2} .0212336{col 40}{space 1}  241.92{col 49}{space 3}0.000{col 57}{space 4} 3.785853{col 70}{space 3} 3.869089
+{txt}{hline 16}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{p 0 6 2}Note: {bf:_cons} estimates baseline odds{txt}.{p_end}
+
+{com}. logit Water_Available i.Sector
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-195271.36}  
+Iteration 1:{space 3}log likelihood = {res: -190361.1}  
+Iteration 2:{space 3}log likelihood = {res:-190282.48}  
+Iteration 3:{space 3}log likelihood = {res:-190282.43}  
+Iteration 4:{space 3}log likelihood = {res:-190282.43}  
+{res}
+{txt}{col 1}Logistic regression{col 56}{lalign 13:Number of obs}{col 69} = {res}{ralign 7:383,193}
+{txt}{col 56}{lalign 13:LR chi2({res:1})}{col 69} = {res}{ralign 7:9977.86}
+{txt}{col 56}{lalign 13:Prob > chi2}{col 69} = {res}{ralign 7:0.0000}
+{txt}{col 1}{lalign 14:Log likelihood}{col 15} = {res}{ralign 10:-190282.43}{txt}{col 56}{lalign 13:Pseudo R2}{col 69} = {res}{ralign 7:0.0255}
+
+{txt}{hline 16}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}Water_Available{col 17}{c |} Coefficient{col 29}  Std. err.{col 41}      z{col 49}   P>|z|{col 57}     [95% con{col 70}f. interval]
+{hline 16}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}Sector {c |}
+{space 9}Urban  {c |}{col 17}{res}{space 2} .8394461{col 29}{space 2} .0086947{col 40}{space 1}   96.55{col 49}{space 3}0.000{col 57}{space 4} .8224049{col 70}{space 3} .8564874
+{txt}{space 10}_cons {c |}{col 17}{res}{space 2} 1.029762{col 29}{space 2} .0048831{col 40}{space 1}  210.88{col 49}{space 3}0.000{col 57}{space 4} 1.020192{col 70}{space 3} 1.039333
+{txt}{hline 16}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+
+{com}. logit Water_Available i.Sector, or
+
+{res}{txt}Iteration 0:{space 3}log likelihood = {res:-195271.36}  
+Iteration 1:{space 3}log likelihood = {res: -190361.1}  
+Iteration 2:{space 3}log likelihood = {res:-190282.48}  
+Iteration 3:{space 3}log likelihood = {res:-190282.43}  
+Iteration 4:{space 3}log likelihood = {res:-190282.43}  
+{res}
+{txt}{col 1}Logistic regression{col 56}{lalign 13:Number of obs}{col 69} = {res}{ralign 7:383,193}
+{txt}{col 56}{lalign 13:LR chi2({res:1})}{col 69} = {res}{ralign 7:9977.86}
+{txt}{col 56}{lalign 13:Prob > chi2}{col 69} = {res}{ralign 7:0.0000}
+{txt}{col 1}{lalign 14:Log likelihood}{col 15} = {res}{ralign 10:-190282.43}{txt}{col 56}{lalign 13:Pseudo R2}{col 69} = {res}{ralign 7:0.0255}
+
+{txt}{hline 16}{c TT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{col 1}Water_Available{col 17}{c |} Odds ratio{col 29}   Std. err.{col 41}      z{col 49}   P>|z|{col 57}     [95% con{col 70}f. interval]
+{hline 16}{c +}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{space 9}Sector {c |}
+{space 9}Urban  {c |}{col 17}{res}{space 2} 2.315084{col 29}{space 2} .0201289{col 40}{space 1}   96.55{col 49}{space 3}0.000{col 57}{space 4} 2.275967{col 70}{space 3} 2.354874
+{txt}{space 10}_cons {c |}{col 17}{res}{space 2} 2.800401{col 29}{space 2} .0136746{col 40}{space 1}  210.88{col 49}{space 3}0.000{col 57}{space 4} 2.773727{col 70}{space 3} 2.827331
+{txt}{hline 16}{c BT}{hline 11}{hline 11}{hline 9}{hline 8}{hline 13}{hline 12}
+{p 0 6 2}Note: {bf:_cons} estimates baseline odds{txt}.{p_end}
+
+{com}. save "F:\Advanced Data set\Sachin_New_DTA.dta", replace
+{txt}{p 0 4 2}
+file {bf}
+F:\Advanced Data set\Sachin_New_DTA.dta{rm}
+saved
+{p_end}
+
+{com}. tab availability_water_inlatrine
+
+ {txt}availability of water in or {c |}
+     around the latrine used {c |}      Freq.     Percent        Cum.
+{hline 29}{c +}{hline 35}
+   Water_available_with_soap {c |}{res}    290,781       75.88       75.88
+{txt}Water_available_with_ash_mud {c |}{res}     19,495        5.09       80.97
+{txt}        Only_water_available {c |}{res}     59,722       15.59       96.56
+{txt}               Not_available {c |}{res}     13,195        3.44      100.00
+{txt}{hline 29}{c +}{hline 35}
+                       Total {c |}{res}    383,193      100.00
+
+{com}. save "F:\Advanced Data set\Sachin_New_DTA.dta", replace
+{txt}{p 0 4 2}
+(file {bf}
+F:\Advanced Data set\Sachin_New_DTA.dta{rm}
+not found)
+{p_end}
+{p 0 4 2}
+file {bf}
+F:\Advanced Data set\Sachin_New_DTA.dta{rm}
+saved
+{p_end}
+
+{com}. 
